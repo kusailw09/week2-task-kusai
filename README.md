@@ -1,6 +1,6 @@
 # week2-task-kusai
 
-# Week 2 Python Programs – Kusai
+# Instructions and all....
 
 This repo contains 5 tasks.
 
