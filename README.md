@@ -1,8 +1,6 @@
-# week2-task-kusai
 
-# Instructions and all....
 
-# README.md
+# README.md....instructions and all
 
 This repo contains 5 tasks.
 
